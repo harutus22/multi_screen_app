@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Screen App</string>
+    <string name="first_activity">First Activity</string>
+    <string name="go_back">Go Back</string>
+    <string name="go_forward">Go Forward</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="fourth_activity">Fourth Activity</string>
+</resources>
